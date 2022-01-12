@@ -2,6 +2,15 @@
 
 A mini e-commerce application built with Rails 4.2 for purposes of teaching Rails by example.
 
+!["Home/Products page"](https://github.com/hjonsu/Jungle/blob/master/public/docs/chrome_WRMi9SlXEN.png)
+!["Empty Cart"](https://github.com/hjonsu/Jungle/blob/master/public/docs/chrome_ehmNHX6Ttp.png)
+!["Filled Cart"](https://github.com/hjonsu/Jungle/blob/master/public/docs/chrome_tHCdorzX3c.png)
+!["Order Confirmed"](https://github.com/hjonsu/Jungle/blob/master/public/docs/chrome_fkCJmmBiEQ.png)
+!["Admin Products"](https://github.com/hjonsu/Jungle/blob/master/public/docs/chrome_2hMw6hzkGZ.png)
+!["Admin Products Dash"](https://github.com/hjonsu/Jungle/blob/master/public/docs/chrome_1P9Bt6UfM6.png)
+
+
+
 ## Additional Steps for Apple M1 Machines
 
 1. Make sure that you are runnning Ruby 2.6.6 (`ruby -v`)
